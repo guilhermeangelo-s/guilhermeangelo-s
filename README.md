@@ -1,16 +1,15 @@
-## Hi there 👋
+### Boas Vindas Ao Meu Perfil 💙
 
-<!--
-**guilhermeangelo-s/guilhermeangelo-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu Nome é Guilherme Angelo
 
-Here are some ideas to get you started:
+- Estou Estudando Na [Alura](https://www.Alura.com.br)
+- Estou Me Desenvolvendo Na Linguagem JavaScript
+- Utilizo Esse Espaço Para Minha Organização E Compartilhamento Dos Meu Projetos Desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Voce Entrar Em Contato Comigo 📫
+
+00001124266665sp@al.educacao.sp.gov.br
+
+@GuilhermeAngelo2024
+
+![](https://media.tenor.com/LO5LF4ge6jgAAAAM/teq-ultimate-gohan-teen-gohan.gif)
